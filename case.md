@@ -19,8 +19,8 @@
 * [第一三共: TaNeDS](http://www.daiichisankyo.co.jp/corporate/rd/taneds/)
 * [大日本住友製薬: PRISM](http://www.ds-pharma.co.jp/prism/)
 * 武田薬品工業
-** [Co-Create Knowledge for Pharma Innovation with Takeda (COCKPI-T)](https://www.takeda.co.jp/research/openi/cockpit/)
-** [Recruit Innovative Ideas to Generate Original Targets Takeda（RINGO-T）](https://www.takeda.co.jp/research/openi/ringot/)
+  * [Co-Create Knowledge for Pharma Innovation with Takeda (COCKPI-T)](https://www.takeda.co.jp/research/openi/cockpit/)
+  * [Recruit Innovative Ideas to Generate Original Targets Takeda（RINGO-T）](https://www.takeda.co.jp/research/openi/ringot/)
 * 塩野義製薬: 2014年で終了？
-** [FINDS](http://www.shionogi.co.jp/finds/): 2015年〜
-** [SHIONOGI Science Program 2014](http://www.shionogi.co.jp/ssp/jp/) : 2014年まで
+  * [FINDS](http://www.shionogi.co.jp/finds/): 2015年〜
+  * [SHIONOGI Science Program 2014](http://www.shionogi.co.jp/ssp/jp/) : 2014年まで
