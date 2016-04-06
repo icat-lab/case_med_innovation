@@ -3,7 +3,7 @@
 * Tamoschus, D., Hienerth, C., & Lessl, M. (2015). Developing a Framework to Manage a Pharmaceutical Innovation Ecosystem: Collaboration Archetypes, Open Innovation Tools, and Strategies. In _Proceedings of 2nd World Open Innovation Conference_.[(PDFリンク)  ](http://woic.corporateinnovation.berkeley.edu/wp-content/uploads/2015/12/D.-Tamoschus-Winning-Best-Student-Paper.pdf)
 
 ###事例###
-*Aventis: Laroia, G., & Krishnan, S. (2005). Managing drug discovery alliances for success. _Research-Technology Management, 48_(5), 42-50. [(リンク)](http://www.tandfonline.com/doi/abs/10.1080/08956308.2005.11657337)
+* Aventis: Laroia, G., & Krishnan, S. (2005). Managing drug discovery alliances for success. _Research-Technology Management, 48_(5), 42-50. [(リンク)](http://www.tandfonline.com/doi/abs/10.1080/08956308.2005.11657337)
 
 ## Patient Innovation (患者によるイノベーション)
 * [Patient Innovation](https://patient-innovation.com/) : ポルトガルのオープンイノベーション研究コミュニティによる
