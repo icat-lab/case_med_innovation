@@ -1,4 +1,7 @@
 # オープンイノベーション
+## 製薬会社におけるオープンイノベーションの形態
+* Tamoschus, D., Hienerth, C., & Lessl, M. (2015). Developing a Framework to Manage a Pharmaceutical Innovation Ecosystem: Collaboration Archetypes, Open Innovation Tools, and Strategies. In _Proceedings of 2nd World Open Innovation Conference_.[(PDFリンク)  ](http://woic.corporateinnovation.berkeley.edu/wp-content/uploads/2015/12/D.-Tamoschus-Winning-Best-Student-Paper.pdf)
+
 ## Patient Innovation (患者によるイノベーション)
 * [Patient Innovation](https://patient-innovation.com/) : ポルトガルのオープンイノベーション研究コミュニティによる
 * [Patient Innovation Center](http://www.patientinnovationcenter.org/) : 米国シカゴの研究コミュニティによる
