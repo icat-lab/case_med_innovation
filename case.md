@@ -13,6 +13,7 @@
 ## イノベーション・コンテスト
 ###海外事例###
 * [Innocentive (Eli Lilly)](http://www.innocentive.com/)
+ * Lessl, M., Bryans, J. S., Richards, D., & Asadullah, K. (2011). Crowd sourcing in drug discovery. _Nature Reviews Drug Discovery, 10_(4), 241-242.  [(リンク)](http://www.nature.com/nrd/journal/v10/n4/abs/nrd3412.html)
 
 ###外資系製薬会社の日本における活動###
 * 田村泰一, & 望月大輔. (2013). 外資製薬企業におけるグローバルマネジメントモデルの分析. _早稲田国際経営研究, (44)_, 125-133. [(PDFリンク)](https://dspace.wul.waseda.ac.jp/dspace/bitstream/2065/39157/1/KokusaiKeieiKenkyu_44_Tamura.pdf)
