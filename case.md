@@ -12,6 +12,8 @@
 * [Patient-Focused Drug Development](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm347317.htm): 米国FDAのプロジェクト
  * [FDAによるプレゼン資料 (June 20, 2012)](http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/UCM310754.pdf)
  * [Natureの記事] (http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=90049131&lang=ja&site=ehost-live)
+ * [FDAのミーティングサイト](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm430885.htm)
+ * [PDUFA V Draft Implementation Plan: Strucutred Approach to Benefit-Risk Assessment in Drug Regulatory Decision-Making (Feb 2013)](http://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM329758.pdf)
 
 ## イノベーション・コンテスト
 ###海外事例###
