@@ -9,6 +9,9 @@
 * [Patient Innovation](https://patient-innovation.com/) : ポルトガルのオープンイノベーション研究コミュニティによる
 * [Patient Innovation Center](http://www.patientinnovationcenter.org/) : 米国シカゴの研究コミュニティによる
 * [PFCC - Patient and Family Centered Care](http://www.pfcc.org/) : 米国 University of Pittsburgh Medical Centerのプロジェクト
+* [Patient-Focused Drug Development](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm347317.htm): 米国FDAのプロジェクト
+ * [FDAによるプレゼン資料 (June 20, 2012)](http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/UCM310754.pdf)
+ * [Natureの記事] (http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=90049131&lang=ja&site=ehost-live)
 
 ## イノベーション・コンテスト
 ###海外事例###
