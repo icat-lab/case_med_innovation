@@ -9,9 +9,11 @@
 * [Patient Innovation](https://patient-innovation.com/) : ポルトガルのオープンイノベーション研究コミュニティによる
 * [Patient Innovation Center](http://www.patientinnovationcenter.org/) : 米国シカゴの研究コミュニティによる
 * [PFCC - Patient and Family Centered Care](http://www.pfcc.org/) : 米国 University of Pittsburgh Medical Centerのプロジェクト
-* [Patient-Focused Drug Development](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm347317.htm): 米国FDAのプロジェクト
+
+## Patient-Focused Drag Development
+* [米国FDAのウェブサイト](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm347317.htm)
  * [FDAによるプレゼン資料 (June 20, 2012)](http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/UCM310754.pdf)
- * [Natureの記事] (http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=90049131&lang=ja&site=ehost-live)
+ * [Natureの記事](http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=90049131&lang=ja&site=ehost-live)
  * [FDAのミーティングサイト](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm430885.htm)
  * [PDUFA V Draft Implementation Plan: Strucutred Approach to Benefit-Risk Assessment in Drug Regulatory Decision-Making (Feb 2013)](http://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM329758.pdf)
  * [小林和道. (2015). Patient-Centeredの促進に伴うPatient Reported Outcomeの新薬開発への適用に関する研究 _医薬産業政策研究所
