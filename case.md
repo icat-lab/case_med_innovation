@@ -14,6 +14,8 @@
  * [Natureの記事] (http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=90049131&lang=ja&site=ehost-live)
  * [FDAのミーティングサイト](http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm430885.htm)
  * [PDUFA V Draft Implementation Plan: Strucutred Approach to Benefit-Risk Assessment in Drug Regulatory Decision-Making (Feb 2013)](http://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM329758.pdf)
+ * [小林和道. (2015). Patient-Centeredの促進に伴うPatient Reported Outcomeの新薬開発への適用に関する研究 _医薬産業政策研究所
+リサーチペーパー・シリーズ, 64_. 医薬産業政策研究所](http://www.jpma.or.jp/opir/research/rs_064/paper_64.pdf)
 
 ## イノベーション・コンテスト
 ###海外事例###
