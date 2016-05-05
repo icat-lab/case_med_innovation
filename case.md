@@ -18,6 +18,7 @@
  * [PDUFA V Draft Implementation Plan: Strucutred Approach to Benefit-Risk Assessment in Drug Regulatory Decision-Making (Feb 2013)](http://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM329758.pdf)
  * [小林和道. (2015). Patient-Centeredの促進に伴うPatient Reported Outcomeの新薬開発への適用に関する研究 _医薬産業政策研究所
 リサーチペーパー・シリーズ, 64_. 医薬産業政策研究所](http://www.jpma.or.jp/opir/research/rs_064/paper_64.pdf)
+* [The Patient-Focused Drug Development (PFDD) Program | FDA Voice](http://blogs.fda.gov/fdavoice/index.php/tag/the-patient-focused-drug-development-pfdd-program/)
 
 ## イノベーション・コンテスト
 ###海外事例###
